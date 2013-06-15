@@ -22,8 +22,8 @@ The process requires a number of extract files from dbpedia and the Library of C
   * Contains all the article categories in wikipedia
 	http://downloads.dbpedia.org/3.8/en/article_categories_en.nt.bz2
 	
- * Persondata
-   * FOAF representation of persons 
+* Persondata
+  * FOAF representation of persons 
    http://downloads.dbpedia.org/3.8/en/persondata_en.nt.bz2
    
 * Ontology Infobox Types
