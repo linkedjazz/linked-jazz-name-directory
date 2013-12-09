@@ -20,24 +20,24 @@ The process requires a number of extract files from dbpedia and the Library of C
 
 * Articles Categories
   * Contains all the article categories in wikipedia
-	http://downloads.dbpedia.org/3.8/en/article_categories_en.nt.bz2
+	http://downloads.dbpedia.org/3.9/en/article_categories_en.nt.bz2
 	
 * Persondata
   * FOAF representation of persons 
-   http://downloads.dbpedia.org/3.8/en/persondata_en.nt.bz2
+   http://downloads.dbpedia.org/3.9/en/persondata_en.nt.bz2
    
 * Ontology Infobox Types
   * Types of DBpedia entities
-	http://downloads.dbpedia.org/3.8/en/instance_types_en.nt.bz2
+	http://downloads.dbpedia.org/3.9/en/instance_types_en.nt.bz2
 	
 * Short Abstracts
   * The short abstract used to find birth/death dates not in the data
-	http://downloads.dbpedia.org/3.8/en/short_abstracts_en.nt.bz2
+	http://downloads.dbpedia.org/3.9/en/short_abstracts_en.nt.bz2
 	
 	
 * Images
   * Optional, if you want to make a extra file with images/bios for each person.
-	http://downloads.dbpedia.org/3.8/en/images_en.nt.bz2
+	http://downloads.dbpedia.org/3.9/en/images_en.nt.bz2
 
 
 **Library of Congress:**
