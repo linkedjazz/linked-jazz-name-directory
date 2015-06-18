@@ -79,7 +79,7 @@ This attempts to merge the two authorities based on name and dates, it makes a n
 Optional, this script creates an auxiliary file for the sameAs files which has the person image if in wikipedia and their short abstract.	
 	
 	
-	
+### License
 	
 The MIT License (MIT)
 
